@@ -1,0 +1,50 @@
+html {
+    background-image: url('./myfries.jpg');
+    background-repeat: no-repeat; 
+    background-size: cover;   
+}
+
+
+
+button {
+    display: inline-block;
+    border: 1px solid black;
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+
+button:focus {
+    background-color: transparent;
+    color: black;
+    outline: none;
+    
+}
+
+ul {
+    list-style: none;
+}
+
+#h1-home {
+    color: red;
+    font-size: 35px;
+    text-align: center;
+    padding: 20px;
+    margin-top: 100px;
+    margin-right: 300px;
+}
+
+#p-home {
+    color: black;
+    text-align: center;
+    max-width: 300px;
+    margin: auto;
+}
+
+#company-name {
+    float: right;
+    margin: 10px;
+}
+
+
+
