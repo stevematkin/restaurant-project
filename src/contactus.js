@@ -1,5 +1,7 @@
 const contactUs = () => {
     let div = document.createElement('div');
+    div.style.textAlign = 'center';
+    div.style.marginTop = '150px';
     let contactHeader = document.createElement('h1');
     contactHeader.textContent = "Contact Us";
     let email = document.createElement('p');

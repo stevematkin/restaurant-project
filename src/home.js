@@ -2,6 +2,7 @@ const homeTab = () => {
     let div = document.createElement('div');
     
     
+    
     let h1 = document.createElement('h1');
     h1.id = 'h1-home';
     h1.textContent = "Welcome to Stevie's Fries!";
